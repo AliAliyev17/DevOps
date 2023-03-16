@@ -5,3 +5,4 @@ This is another change I made. Just to make git status angry.
 Some trivial change for the new branch. 
 ----------
 Some new stuff for tutorial
+some other stuff
